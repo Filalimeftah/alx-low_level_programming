@@ -1,10 +1,14 @@
 #include <stdio.h>
 /**
- * main:  A program that projects a line with puts function
- * return: always 0 (success)
+ * main - Entry point of the program
+ *
+ * This program prints a string to the console using the `puts()` function.
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
+
