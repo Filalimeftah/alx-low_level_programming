@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
-*main: This function is the entry point of the program.
-*printf: It prints out a statement
-*returns: always 0 (succes (success))
+* main - Entry point of the program
+* Description: This program prints a statement to the standard output
+* Return: Always 0 (Success)
 */
 int main(void)
 {
